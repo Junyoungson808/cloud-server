@@ -18,7 +18,7 @@ Successfully create a simple server using AWS. Deploy a simple Node.js server to
 ### Links and Resources
 
 - [GUI DEPLOY](http://lab16-env.eba-fz3iirss.us-west-2.elasticbeanstalk.com/) (http://lab16-env.eba-fz3iirss.us-west-2.elasticbeanstalk.com/)
-- [CLI DEPLOY](http://lab16awscloudserver-env.eba-y8zejjis.us-west-2.elasticbeanstalk.com/) (http://lab16awscloudserver-env.eba-y8zejjis.us-west-2.elasticbeanstalk.com/)
+- [CLI DEPLOY](http://lab16-env.eba-fz3iirss.us-west-2.elasticbeanstalk.com/) (http://lab16-env.eba-fz3iirss.us-west-2.elasticbeanstalk.com/)
 <!-- - [front-end application](http://xyz.com) (when applicable) -->
 
 ### Setup
