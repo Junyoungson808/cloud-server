@@ -29,9 +29,7 @@ Successfully create a simple server using AWS. Deploy a simple Node.js server to
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
+- `PORT` - 3002
 - `DATABASE_URL` - URL to the running Postgres instance/db
 
 #### How to initialize/run your application (where applicable)
