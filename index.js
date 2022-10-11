@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3002;
 
 app.get('/', (req, res, next) => {
   res.status(200).send('Hello form the other side!');
-})
+});
 
 app.get('/bad', (req, res, next) => {
   next('this is a bad route');
